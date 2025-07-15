@@ -79,5 +79,11 @@ npm start
 ### 4. URL Shortener Page – Invalid URL Error
 ![Invalid URL Error](./Frontend%20Test%20Submission/screenshots/invalid_url.png)
 
+### 5. Statistics Page – No Clicks
+![Statistics Page No Clicks](./Frontend%20Test%20Submission/screenshots/short_url_statistics_1.png)
+
+### 6. Statistics Page – With Click Details
+![Statistics Page With Click Details](./Frontend%20Test%20Submission/screenshots/short_url_statistics_with_location.png)
+
 ---
 
